@@ -1,0 +1,7 @@
+/mon-site/
+├── index.html
+├── Wear the Message.mp3
+├── images/
+│ ├── street-art-stickers-marseille.jpg
+│ ├── graffiti-shutter-street-art.jpg
+│ └── la-vie-est-belle-graffiti.jpg
